@@ -2,7 +2,7 @@
     "definitions": [
         {
             "title": "CAPTCHA",
-            "id": "recaptcha-v1",
+            "id": "captcha",
             "plugins": {
               "xwalk": {
                 "page": {
@@ -20,7 +20,7 @@
     ],
     "models": [
         {
-            "id": "recaptcha-v1",
+            "id": "captcha",
             "fields": [
                 {
                     "component": "container",

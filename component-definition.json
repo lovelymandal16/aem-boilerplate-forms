@@ -460,7 +460,7 @@
         },
         {
           "title": "CAPTCHA",
-          "id": "recaptcha-v1",
+          "id": "captcha",
           "plugins": {
             "xwalk": {
               "page": {
