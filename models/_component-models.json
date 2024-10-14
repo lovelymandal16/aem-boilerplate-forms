@@ -57,6 +57,9 @@
     "...": "./form/_radio-group.json#/models"
   },
   {
+    "...": "./form/_recaptcha.json#/models"
+  },  
+  {
     "...": "./form/_reset-button.json#/models"
   },
   {

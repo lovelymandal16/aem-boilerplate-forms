@@ -163,6 +163,7 @@
         "plain-text",
         "radio-group",
         "rating",
+        "recaptcha-v1",
         "telephone-input",
         "text-input",
         "tnc",

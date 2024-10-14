@@ -83,6 +83,9 @@
           "...": "./form/_rating.json#/definitions"
         },
         {
+          "...": "./form/_recaptcha.json#/definitions"
+        },
+        {
           "...": "./form/_reset-button.json#/definitions"
         },
         {
